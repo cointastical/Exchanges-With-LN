@@ -67,6 +67,8 @@ Exchanges with support for Lightning Network
 
 - [Lightning Exchanges](https://wiki.ion.radar.tech/tutorials/lightning-exchanges) list from the ION wiki
 - [Are multicoin exchanges attacks on Bitcoin scaling?](https://tftc.io/martys-bent/issue-888)
+- [Lightning Wiki](https://lightningwiki.net)
+- Lopp's [Lightning Network Resources](https://lightning.how)
 
 Have a suggestion? Th post here on Medium with more [P2P exchanges](https://medium.com/@cointastical/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e) (fiat-to-crypto).
 

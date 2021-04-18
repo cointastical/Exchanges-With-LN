@@ -3,7 +3,7 @@ Exchanges with support for Lightning Network
 
 **Caution:** Some altcoin exchanges include a cryptocurrency with the symbol "LBTC" for "Lightning Bitcoin". This is NOT the same as bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets). That currency symbol is for a small value altcoin that has no relation to the bitcoin Lightning network [⚡](https://lightningnetworkstores.com/wallets). There is another currency symbol that may be similar, L-BTC, and that too is unrelated to bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets). The L-BTC symbol is used by exchanges which support bitcoin on Blockstream's [Liquid Network](https://liquid.net/).
 
-# Exchanges where you can buy and/or sell bitcoin using Lightning network [⚡](https://lightningnetworkstores.com/wallets)
+**Exchanges where you can buy and/or sell bitcoin using Lightning network [⚡](https://lightningnetworkstores.com/wallets)**
 
 - [Bitfinex](https://bitfinex.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [River Financial](https://river.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
@@ -22,14 +22,13 @@ Exchanges with support for Lightning Network
 - [FastBitcoins](https://fastbitcoins.com/#locations) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [NO KYC, under $150]← UK, Canada and Estonia only, buy voucher with cash, then withdraw from FastBitcoins using Lightning network
 - [Graaf One](https://graaf.one/) ([⚡](https://lightningnetworkstores.com/wallets)) [Canada]
 
-
-# P2P Trading exchanges with base currency support for Lightning network [⚡](https://lightningnetworkstores.com/wallets)
+**P2P Trading exchanges with base currency support for Lightning network [⚡](https://lightningnetworkstores.com/wallets)**
 
 - [HodlHodl](https://hodlhodl.com/) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] ← Not available in the U.S. [Lightning network is implemented simply as a payment method allowed for buying bitcoin.]
 - [Paxful](https://paxful.com/) (💵, [⚡](https://lightningnetworkstores.com/wallets) soon) ←[Announcement](https://decrypt.co/58100/paxful-is-integrating-bitcoin-lightning-payments)
 -   Many [P2P trading exchanges](https://medium.com/@cointastical/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e) either explicitly allow bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets) as a payment method, or have an "Other" payment method that is a catchall in which the details of the payment method are located in the details of the trade offer.
 
-# Crypto-to-crypto methods
+**Crypto-to-crypto methods**
 
 - [FixedFloat.com](https://fixedfloat.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [Boltz](https://boltz.exchange/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
@@ -48,23 +47,23 @@ Exchanges with support for Lightning Network
 - [Liquid.Taxi](https://liquid.taxi/) ([⚡](https://lightningnetworkstores.com/wallets) coming soon)
 - Many [P2P Trading Exchanges](https://medium.com/@cointastical/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e) (including **No-KYC ones)** either use Lightning network [⚡](https://lightningnetworkstores.com/wallets) BTC as the base currency (e.g., on HodlHodl) or provide Lightning network [⚡](https://lightningnetworkstores.com/wallets) BTC as a payment method when purchasing bitcoin (e.g., on Bisq network and on [HodlHodl](https://medium.com/@hodlhodl/new-payment-method-exchange-btc-on-chain-for-lightning-btc-1d9433c25c5e)).
 
-# Trading / Investment
+**Trading / Investment**
 
 - [Loft](https://loft.trade/) ← Invest inStocks using Lightning network
 - [LNMarkets](https://lnmarkets.com/) ← Not available from the U.S.
 
-# Debit Cards Funded Using Lightning Network
+**Debit Cards Funded Using Lightning Network**
 
 - [Spendl](https://getspendl.com/) ←Browser extension (Chrome)
 - [Link Node Gift Card](https://www.lngiftcard.com/)
 
-# Lightning Network Wallets
+**Lightning Network Wallets**
 
 - Lightning Network Stores: [Mobile Wallets](https://lightningnetworkstores.com/wallets) ([⚡](https://lightningnetworkstores.com/wallets))
 - Rusnak: [Comparison of 5 Lightning Network Wallets](https://rusnak.io/lightning-wallets-comparison) ([⚡](https://lightningnetworkstores.com/wallets))
 - LNRoute: [Lightning Wallets](https://lnroute.com/category/wallets) ([⚡](https://lightningnetworkstores.com/wallets))
 
-# Related
+**Related**
 
 - [Lightning Exchanges](https://wiki.ion.radar.tech/tutorials/lightning-exchanges) list from the ION wiki
 - [Are multicoin exchanges attacks on Bitcoin scaling?](https://tftc.io/martys-bent/issue-888)

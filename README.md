@@ -1,4 +1,4 @@
-# ExchangesWithLN
+# Exchanges-With-LN
 Exchanges with support for Lightning Network
 
 **Caution:** Some altcoin exchanges include a cryptocurrency with the symbol "LBTC" for "Lightning Bitcoin". This is NOT the same as bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets). That currency symbol is for a small value altcoin that has no relation to the bitcoin Lightning network [⚡](https://lightningnetworkstores.com/wallets). There is another currency symbol that may be similar, L-BTC, and that too is unrelated to bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets). The L-BTC symbol is used by exchanges which support bitcoin on Blockstream's [Liquid Network](https://liquid.net/).

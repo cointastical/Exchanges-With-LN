@@ -70,8 +70,6 @@ Exchanges with support for Lightning Network
 - [Lightning Wiki](https://lightningwiki.net)
 - Lopp's [Lightning Network Resources](https://lightning.how)
 
-Have a suggestion? Th post here on Medium with more [P2P exchanges](https://medium.com/@cointastical/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e) (fiat-to-crypto).
-
 Additions, corrections, and other feedback welcome and can be submitted as an [issue or pull request on GitHub](https://github.com/cointastical/Exchanges-With-LN), or via [e-mail](mailto://cointastical@gmail.com).
 
 [Note: There is also a [corresponding post on Medium](https://cointastical.medium.com/exchanges-with-support-for-bitcoin-lightning-network-payments-739829bcb7bc) with this information as well.]

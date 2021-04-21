@@ -9,6 +9,7 @@ Exchanges with support for Lightning Network
 - [River Financial](https://river.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [bitFlyer Lightning Pro](https://lightning.bitflyer.com/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Strike](https://strike.zaphq.io/) ([⚡](https://lightningnetworkstores.com/wallets)) ← [Announcement](https://medium.com/@JimmyMow/announcing-strike-by-zap-4f578c7c8984)
+- [LastBit](https://lastbit.io/#download-button) ([⚡](https://lightningnetworkstores.com/wallets))
 - [OKCoin](https://www.okcoin.com/spot/trade) ([⚡](https://lightningnetworkstores.com/wallets)) ← [Announcement](https://blog.okcoin.com/2021/03/04/how-to-use-bitcoin-lightning-network)
 - OKEx ([⚡](https://lightningnetworkstores.com/wallets)) ← [Announcement](https://bitcoinmagazine.com/articles/okcoin-to-integrate-lightning-network)
 - CoinCorner ([⚡](https://lightningnetworkstores.com/wallets)) ← [Announcement](https://twitter.com/CoinCorner/status/1346470541448761344)

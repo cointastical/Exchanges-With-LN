@@ -14,7 +14,7 @@ Exchanges with support for Lightning Network
 - [Azte.co](https://azte.co/#find_a_vendor) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://medium.com/@beautyon_/azteco-lightning-now-no-one-gets-left-behind-in-bitcoin-2b750f094ccf)
 - [OKCoin](https://www.okcoin.com/spot/trade) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://blog.okcoin.com/2021/03/04/how-to-use-bitcoin-lightning-network)
 - [OKEx](https://www.okex.com/trade-spot) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://bitcoinmagazine.com/articles/okcoin-to-integrate-lightning-network)
-- CoinCorner ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://twitter.com/CoinCorner/status/1346470541448761344)
+- [CoinCorner](https://www.coincorner.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://twitter.com/CoinCorner/status/1346470541448761344)
 - [Bitbargain](https://bitbargain.co.uk/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [BTCDuke](https://btcduke.com/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [BitNob](https://bitnob.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://blog.bitnob.com/introducing-the-lightning-network-as-explained-by-bitnob)

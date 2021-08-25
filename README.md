@@ -36,7 +36,7 @@ Exchanges with support for Lightning Network
 
 **Crypto-to-crypto methods**
 
-- [Coinos](https://coinos.io) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
+- [Coinos](https://coinos.io) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Also supports swap to/from Liquid network
 - [FixedFloat.com](https://fixedfloat.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Not available in the U.S.
 - [Boltz](https://boltz.exchange/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [SideShift AI](https://sideshift.ai/) ([⚡](https://lightningnetworkstores.com/wallets)) [NO KYC] <-- Not available in the U.S.

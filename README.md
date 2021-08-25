@@ -23,6 +23,7 @@ Exchanges with support for Lightning Network
 - [Buda](https://buda.com/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [NiceHash Exchange](https://www.nicehash.com/exchange) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Breez](https://breez.technology/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://medium.com/breez-technology/breez-moonpay-the-easiest-way-to-buy-spend-bitcoin-on-lightning-3c40b3d3815a)
+- [Bipa](https://bipa.app/) ([⚡](https://lightningnetworkstores.com/wallets)) ← Brazil
 - [FastBitcoins](https://fastbitcoins.com/#locations) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [NO KYC, under $150]<-- UK, Canada and Estonia only, buy voucher with cash, then withdraw from FastBitcoins using Lightning network
 - [Graaf One](https://graaf.one/) ([⚡](https://lightningnetworkstores.com/wallets)) [Canada]
 

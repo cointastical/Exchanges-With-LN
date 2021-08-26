@@ -20,13 +20,13 @@ Exchanges with support for Lightning Network
 - [BTCDuke](https://btcduke.com/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [BitNob](https://bitnob.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://blog.bitnob.com/introducing-the-lightning-network-as-explained-by-bitnob)
 - [Vaultoro](https://www.vaultoro.com/) ([⚡](https://lightningnetworkstores.com/wallets))
-- [VBTC](https://vbtc.exchange/) ([⚡](https://lightningnetworkstores.com/wallets)) [Vietnam] <-- [Announcement](https://twitter.com/VBTC_Vietnam/status/1353564136702005248), [Press](https://news.bitcoinvn.io/vbtc-adding-lightning-batched-segwit-withdrawals/?lang=en&__cf_chl_captcha_tk__=e5c253093b66829e0de7b0234afa1d18257e8cb4-1611597377-0-Ae83Z-Txwf1lQ5Hizp5geEY5VSwUvHRY0w4U_-bpBRTiN7otEqlZRgJZPNp1uk0kW6DbJ3VGfOaSeYQPTc6g2wO0YwuDOTRb_E5KTwh2XQqx0sap7G943b9lr32gayHbyKmp9HHN7cu4Do2Ocd3xCqDzWnBslEfTGR1Im03trdNbvG8WzKyA7_o0YFGYCNOu54YMiYl5DDxlxmFqtzPI__tDXtmWgi6alX4-2vBm-zYcu4HPmjtgwDf7Ng7bdNAdWn9bkKqZtRxfn5hE9hU-qk19_ggSA4CCHAXgRFRTp4kIrSqvQAM0bHdmD2IfyJ__uRyfgIG7i40sSsv93Xk8ld94L5GiYlKH-1AGCkTATDmLZZXihW5G3v1FxuUZKV1ysFPl2zsAGahqe58qu7gWuctUxs7oAAEd6CP65Y_X_g-vf7qI5yH4GSX6uTTVYr5jtPAeOgz-s59tSRpXZ7xfFDpposaeiatAvSNmI1xD46Bl0KWEVhDhLxfQHGbs-V7PFEbUf399JnCC_rZylY_LLDsT2b1BdX25h3SqAdcQlw16bkH_tFm10d8EcVTw5aLFygo3YrjBAh5m2dE-rTWrmQWLgPtcb1x6ETxoqeF13G4lgPazVEc0D-hL1LNyUIh5tl1yK6UGOzQjT-bOK95Hyhitmrzmml-q5OpyaPp09o5z)
+- [VBTC](https://vbtc.exchange/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Vietnam [Announcement](https://twitter.com/VBTC_Vietnam/status/1353564136702005248), [Press](https://news.bitcoinvn.io/vbtc-adding-lightning-batched-segwit-withdrawals)
 - [Buda](https://buda.com/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [NiceHash Exchange](https://www.nicehash.com/exchange) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Breez](https://breez.technology/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://medium.com/breez-technology/breez-moonpay-the-easiest-way-to-buy-spend-bitcoin-on-lightning-3c40b3d3815a)
-- [Bipa](https://bipa.app/) ([⚡](https://lightningnetworkstores.com/wallets)) ← Brazil
+- [Bipa](https://bipa.app/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Brazil
 - [Landifa](https://bitcoin-namibia.trade/) - Bitcoin Trade Namibia ([⚡](https://lightningnetworkstores.com/wallets))
-- [FastBitcoins](https://fastbitcoins.com/#locations) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [NO KYC, under $150]<-- UK, Canada and Estonia only, buy voucher with cash, then withdraw from FastBitcoins using Lightning network
+- [FastBitcoins](https://fastbitcoins.com/#locations) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [NO KYC, under $150] <-- UK, Canada and Estonia only, buy voucher with cash, then withdraw from FastBitcoins using Lightning network
 - [Graaf One](https://graaf.one/) ([⚡](https://lightningnetworkstores.com/wallets)) [Canada]
 
 **P2P Trading exchanges with base currency support for Lightning network [⚡](https://lightningnetworkstores.com/wallets)**

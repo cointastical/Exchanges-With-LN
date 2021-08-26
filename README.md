@@ -11,7 +11,7 @@ Exchanges with support for Lightning Network
 - [Strike](https://strike.zaphq.io/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://medium.com/@JimmyMow/announcing-strike-by-zap-4f578c7c8984)
 - [LastBit](https://lastbit.io/#download-button) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Not available in the U.S.
 - [Bottlepay](https://bottlepay.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- UK and across Europe
-- [Flitz](https://getflitz.app) ([⚡](https://lightningnetworkstores.com/wallets)) <-- EU [How-to video](https://www.youtube.com/watch?v=WOZftBtl29U)
+- [Flitz](https://getflitz.app) ([⚡](https://lightningnetworkstores.com/wallets)) <-- EU, [How-to video](https://www.youtube.com/watch?v=WOZftBtl29U)
 - [Azte.co](https://azte.co/#find_a_vendor) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://medium.com/@beautyon_/azteco-lightning-now-no-one-gets-left-behind-in-bitcoin-2b750f094ccf)
 - [OKCoin](https://www.okcoin.com/spot/trade) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://blog.okcoin.com/2021/03/04/how-to-use-bitcoin-lightning-network)
 - [OKEx](https://www.okex.com/trade-spot) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://bitcoinmagazine.com/articles/okcoin-to-integrate-lightning-network)
@@ -20,7 +20,7 @@ Exchanges with support for Lightning Network
 - [BTCDuke](https://btcduke.com/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [BitNob](https://bitnob.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://blog.bitnob.com/introducing-the-lightning-network-as-explained-by-bitnob)
 - [Vaultoro](https://www.vaultoro.com/) ([⚡](https://lightningnetworkstores.com/wallets))
-- [VBTC](https://vbtc.exchange/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Vietnam [Announcement](https://twitter.com/VBTC_Vietnam/status/1353564136702005248), [Press](https://news.bitcoinvn.io/vbtc-adding-lightning-batched-segwit-withdrawals)
+- [VBTC](https://vbtc.exchange/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Vietnam, [Announcement](https://twitter.com/VBTC_Vietnam/status/1353564136702005248), [Press](https://news.bitcoinvn.io/vbtc-adding-lightning-batched-segwit-withdrawals)
 - [Buda](https://buda.com/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [NiceHash Exchange](https://www.nicehash.com/exchange) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Breez](https://breez.technology/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://medium.com/breez-technology/breez-moonpay-the-easiest-way-to-buy-spend-bitcoin-on-lightning-3c40b3d3815a)

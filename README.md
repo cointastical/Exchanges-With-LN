@@ -9,7 +9,6 @@ Exchanges with support for Lightning Network
 - [River Financial](https://river.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [Bull Bitcoin](https://bullbitcoin.com/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Canada, [Announcement](https://medium.com/bull-bitcoin/scaling-bull-bitcoins-non-custodial-services-with-the-lightning-network-782585d96098)
 - [Strike](https://strike.zaphq.io/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://medium.com/@JimmyMow/announcing-strike-by-zap-4f578c7c8984)
-- [LastBit](https://lastbit.io/#download-button) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Not available in the U.S.
 - [Bottlepay](https://bottlepay.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- UK and across Europe
 - [Flitz](https://getflitz.app) ([⚡](https://lightningnetworkstores.com/wallets)) <-- EU, [How-To Video](https://www.youtube.com/watch?v=WOZftBtl29U)
 - [Azte.co](https://azte.co/#find_a_vendor) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://medium.com/@beautyon_/azteco-lightning-now-no-one-gets-left-behind-in-bitcoin-2b750f094ccf)
@@ -62,6 +61,7 @@ Exchanges with support for Lightning Network
 
 **Debit Cards Funded Using Lightning Network**
 
+- [LastBit](https://lastbit.io/#download-button) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Not available in the U.S.
 - [Spendl](https://getspendl.com/) <--Browser extension (Chrome)
 - [Link Node Gift Card](https://www.lngiftcard.com/)
 

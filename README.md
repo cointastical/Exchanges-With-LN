@@ -86,7 +86,7 @@ Exchanges with support for Lightning Network
 
 **Related**
 
-- [Lightning Exchanges](https://wiki.ion.radar.tech/tutorials/lightning-exchanges) list from the ION wiki
+- [Lightning Exchanges](https://wiki.ion.radar.tech/tutorials/lightning-exchanges) <-- List from the ION wiki
 - [Are multicoin exchanges attacks on Bitcoin scaling?](https://tftc.io/martys-bent/issue-888)
 - [Lightning Wiki](https://lightningwiki.net)
 - Lopp's [Lightning Network Resources](https://lightning.how)

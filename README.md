@@ -59,6 +59,7 @@ Exchanges with support for Lightning Network
 **Precious Metals**
 
 - [Vaultoro](https://www.vaultoro.com/) ([⚡](https://lightningnetworkstores.com/wallets))
+- [BitGild](https://www.bitgild.com) ([⚡](https://lightningnetworkstores.com/wallets)) [Announcement](https://bitgild.medium.com/buy-gold-with-bitcoin-lightning-307cab467ab3)
 
 **Trading / Investment**
 

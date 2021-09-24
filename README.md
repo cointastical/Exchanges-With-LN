@@ -73,6 +73,10 @@ Exchanges with support for Lightning Network
 - [Spendl](https://getspendl.com/) ([⚡](https://lightningnetworkstores.com/wallets)) <--Browser extension (Chrome)
 - [Link Node Gift Card](https://www.lngiftcard.com/) ([⚡](https://lightningnetworkstores.com/wallets))
 
+**Retail and e-Commerce Payments**
+
+- [BitRefill](https://www.bitrefill.com/buy/lightning-recharge) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
+
 **Lightning Network Wallets**
 
 - Lightning Network Stores: [Mobile Wallets](https://lightningnetworkstores.com/wallets) ([⚡](https://lightningnetworkstores.com/wallets))

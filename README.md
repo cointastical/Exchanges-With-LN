@@ -20,7 +20,6 @@ Exchanges with support for Lightning Network
 - [BTCDuke](https://btcduke.com/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Bitaroo](https://bitaroo.com.au) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Australia
 - [BitNob](https://bitnob.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://blog.bitnob.com/introducing-the-lightning-network-as-explained-by-bitnob)
-- [Vaultoro](https://www.vaultoro.com/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [VBTC](https://vbtc.exchange/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Vietnam, [Announcement](https://twitter.com/VBTC_Vietnam/status/1353564136702005248), [Press](https://news.bitcoinvn.io/vbtc-adding-lightning-batched-segwit-withdrawals)
 - [Buda](https://buda.com/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [NiceHash Exchange](https://www.nicehash.com/exchange) ([⚡](https://lightningnetworkstores.com/wallets))
@@ -55,6 +54,10 @@ Exchanges with support for Lightning Network
 - [CoinPlaza](https://www.coinplaza.it/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Liquid.Taxi](https://liquid.taxi/) ([⚡](https://lightningnetworkstores.com/wallets) coming soon)
 - Many [P2P Trading Exchanges](https://medium.com/@cointastical/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e) (including **No-KYC ones)** either use Lightning network [⚡](https://lightningnetworkstores.com/wallets) BTC as the base currency (e.g., on HodlHodl) or provide Lightning network [⚡](https://lightningnetworkstores.com/wallets) BTC as a payment method when purchasing bitcoin (e.g., on Bisq network and on [HodlHodl](https://medium.com/@hodlhodl/new-payment-method-exchange-btc-on-chain-for-lightning-btc-1d9433c25c5e)).
+
+**Precious Metals**
+
+- [Vaultoro](https://www.vaultoro.com/) ([⚡](https://lightningnetworkstores.com/wallets))
 
 **Trading / Investment**
 

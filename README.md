@@ -63,7 +63,7 @@ Exchanges with support for Lightning Network
 
 **Trading / Investment**
 
-- [Loft](https://loft.trade/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Invest inStocks using Lightning network ([⚡](https://lightningnetworkstores.com/wallets)
+- [Loft](https://loft.trade/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Invest inStocks using Lightning network ([⚡](https://lightningnetworkstores.com/wallets))
 - [LNMarkets](https://lnmarkets.com/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Not available from the U.S.
 - [Kollider](https://kollider.xyz) ([⚡](https://lightningnetworkstores.com/wallets))
 

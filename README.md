@@ -63,8 +63,8 @@ Exchanges with support for Lightning Network
 
 **Trading / Investment**
 
-- [Loft](https://loft.trade/) <-- Invest inStocks using Lightning network
-- [LNMarkets](https://lnmarkets.com/) <-- Not available from the U.S.
+- [Loft](https://loft.trade/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Invest inStocks using Lightning network ([⚡](https://lightningnetworkstores.com/wallets)
+- [LNMarkets](https://lnmarkets.com/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Not available from the U.S.
 
 **Debit Cards Funded Using Lightning Network**
 

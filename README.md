@@ -45,7 +45,6 @@ Exchanges with support for Lightning Network
 - [ZigZag](https://zigzag.io/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [Lightning Loop client](https://github.com/lightninglabs/loop) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [Submarine Swaps](http://submarineswaps.org/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
-- [MercuriEX](https://mercuriex.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [BitRefill](https://www.bitrefill.com/buy/lightning-recharge) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [FastBitcoins](https://fastbitcoins.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, when under $150]<-- Buy FastBitcoins voucher using bitcoin or altcoins on BitRefill, then withdraw from FastBitcoins using Lightning network [⚡](https://lightningnetworkstores.com/wallets)
 - [XLM to LN](https://kriptode.com/xlmtoln/index.html) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]

@@ -51,6 +51,7 @@ Exchanges with support for Lightning Network
 - [CoinPlaza](https://www.coinplaza.it/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Liquid.Taxi](https://liquid.taxi/) ([⚡](https://lightningnetworkstores.com/wallets) coming soon)
 - Many [P2P Trading Exchanges](https://medium.com/@cointastical/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e) (including **No-KYC ones)** either use Lightning network [⚡](https://lightningnetworkstores.com/wallets) BTC as the base currency (e.g., on HodlHodl) or provide Lightning network [⚡](https://lightningnetworkstores.com/wallets) BTC as a payment method when purchasing bitcoin (e.g., on Bisq network and on [HodlHodl](https://medium.com/@hodlhodl/new-payment-method-exchange-btc-on-chain-for-lightning-btc-1d9433c25c5e)).
+- [Paxful](https://paxful.com/) permits you to convert from either USDT or ETH to BTC, and then you can withdraw that BTC on Lightining network ([⚡](https://lightningnetworkstores.com/wallets).  And vice-versa, deposit BTC on LN ([⚡](https://lightningnetworkstores.com/wallets) and then convert to ETH or USDT.  Other custodial exchanges (above) may have the same (or similar) capability.
 
 **Precious Metals**
 

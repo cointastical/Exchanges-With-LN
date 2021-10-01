@@ -44,7 +44,6 @@ Exchanges with support for Lightning Network
 - [SideShift AI](https://sideshift.ai/) ([⚡](https://lightningnetworkstores.com/wallets)) [NO KYC] <-- Not available in the U.S.
 - [ZigZag](https://zigzag.io/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [Lightning Loop client](https://github.com/lightninglabs/loop) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
-- [REDSHIFT](https://ion.radar.tech/redshift#swap-assets) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [Submarine Swaps](http://submarineswaps.org/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [MercuriEX](https://mercuriex.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [BitRefill](https://www.bitrefill.com/buy/lightning-recharge) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]

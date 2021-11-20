@@ -7,7 +7,7 @@ Exchanges with support for Lightning Network
 
 - [Bitfinex](https://bitfinex.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Also supports Liquid network
 - [River Financial](https://river.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
-- [Bull Bitcoin](https://bullbitcoin.com/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Canada, [Announcement](https://medium.com/bull-bitcoin/scaling-bull-bitcoins-non-custodial-services-with-the-lightning-network-782585d96098)
+- [Bull Bitcoin](https://bullbitcoin.com/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Canada, [Announcement](https://medium.com/bull-bitcoin/scaling-bull-bitcoins-non-custodial-services-with-the-lightning-network-782585d96098). Also supports Liquid network
 - [Strike](https://strike.zaphq.io/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://medium.com/@JimmyMow/announcing-strike-by-zap-4f578c7c8984)
 - [Bottlepay](https://bottlepay.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- UK and across Europe
 - [Flitz](https://getflitz.app) ([⚡](https://lightningnetworkstores.com/wallets)) <-- EU, [How-To Video](https://www.youtube.com/watch?v=WOZftBtl29U)

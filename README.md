@@ -41,7 +41,7 @@ Exchanges with support for Lightning Network
 - [Coinos](https://coinos.io) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Also supports swap to/from Liquid network
 - [FixedFloat.com](https://fixedfloat.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Not available in the U.S.
 - [Boltz](https://boltz.exchange/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
-- [SideShift AI](https://sideshift.ai/) ([⚡](https://lightningnetworkstores.com/wallets)) [NO KYC] <-- Not available in the U.S.
+- [SideShift AI](https://sideshift.ai/) ([⚡](https://lightningnetworkstores.com/wallets)) [NO KYC] <-- Also supports swap to/from Liquid network. Not available in the U.S.
 - [Flyp.me](https://flyp.me/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Uses "LNX" as currency symbol for bitcoin on Lightning network
 - [ZigZag](https://zigzag.io/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [Lightning Loop client](https://github.com/lightninglabs/loop) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]

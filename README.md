@@ -29,6 +29,7 @@ Exchanges with support for Lightning Network
 - [Landifa](https://bitcoin-namibia.trade/) - Bitcoin Trade Namibia ([⚡](https://lightningnetworkstores.com/wallets))
 - [FastBitcoins](https://fastbitcoins.com/#locations) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [NO KYC, under $150] <-- UK, Canada and Estonia only, buy voucher with cash, then withdraw from FastBitcoins using Lightning network
 - [Graaf One](https://graaf.one/) ([⚡](https://lightningnetworkstores.com/wallets)) [Canada]
+- [BitSTAMP](https://bitstamp.net/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Cash out through Zebedee](https://blog.bitstamp.net/post/how-to-use-the-new-lightning-network-bridge-for-instant-bitcoin-top-ups-in-crypto-gaming)
 
 **P2P Trading exchanges with base currency support for Lightning network [⚡](https://lightningnetworkstores.com/wallets)**
 

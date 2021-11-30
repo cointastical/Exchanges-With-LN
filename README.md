@@ -19,6 +19,7 @@ Exchanges with support for Lightning Network
 - [HolyTransaction](https://holytransaction.com/#exchange) ([⚡](https://lightningnetworkstores.com/wallets))
 - [BTCDuke](https://btcduke.com/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Bitaroo](https://bitaroo.com.au) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Australia
+- [The Rock Trading](https://www.therocktrading.com)<-- Italy. Also supports Liquid network
 - [BitNob](https://bitnob.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://blog.bitnob.com/introducing-the-lightning-network-as-explained-by-bitnob)
 - [VBTC](https://vbtc.exchange/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Vietnam, [Announcement](https://twitter.com/VBTC_Vietnam/status/1353564136702005248), [Press](https://news.bitcoinvn.io/vbtc-adding-lightning-batched-segwit-withdrawals)
 - [Buda](https://buda.com/) ([⚡](https://lightningnetworkstores.com/wallets))

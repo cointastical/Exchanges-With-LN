@@ -18,6 +18,7 @@ Exchanges with support for Lightning Network
 - [Bitbargain](https://bitbargain.co.uk/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [HolyTransaction](https://holytransaction.com/#exchange) ([⚡](https://lightningnetworkstores.com/wallets))
 - [BTCDuke](https://btcduke.com/) ([⚡](https://lightningnetworkstores.com/wallets))
+- [PrimeBit](https://primebit.com) ([⚡](https://lightningnetworkstores.com/wallets) <-- [Details](https://primebit.com/bitcoin-lightning-network)
 - [Bitaroo](https://bitaroo.com.au) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Australia
 - [The Rock Trading](https://www.therocktrading.com)<-- Italy. Also supports Liquid network
 - [BitNob](https://bitnob.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://blog.bitnob.com/introducing-the-lightning-network-as-explained-by-bitnob)

@@ -89,6 +89,7 @@ Exchanges with support for Lightning Network
 
 - [Lightning Exchanges](https://wiki.ion.radar.tech/tutorials/lightning-exchanges) <-- List from the ION wiki
 - [Lightning Exchanges](https://lightningnetworkstores.com/?tags=exchange) <-- List from Lightning Network Stores
+- [Lightning Exchanges](https://github.com/theDavidCoen/LightningExchanges) <-- List from David Coen
 - [Lightning Payment Processors and Gateways](https://lightningnetworkstores.com/?tags=payment%20processor&exclude=payment%20gateway) <-- List from Lightning Network Stores
 - [Are multicoin exchanges attacks on Bitcoin scaling?](https://tftc.io/martys-bent/issue-888)
 - [Lightning Wiki](https://lightningwiki.net)

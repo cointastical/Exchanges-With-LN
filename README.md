@@ -1,13 +1,13 @@
 # Exchanges-With-LN
 Exchanges with support for Lightning Network
 
-**Caution:** Some altcoin exchanges include a cryptocurrency with the symbol "LBTC" for "Lightning Bitcoin". This is NOT the same as bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets). That currency symbol is for a small value altcoin that has no relation to the bitcoin Lightning network [⚡](https://lightningnetworkstores.com/wallets). There is another currency symbol that may be similar, L-BTC, and that too is unrelated to bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets). The L-BTC symbol is used by exchanges which support bitcoin on Blockstream's [Liquid Network](https://liquid.net/), which has its own [list of exchanges and swap methods](https://help.blockstream.com/hc/en-us/articles/900000629383).
+**Caution:** Some altcoin exchanges include a cryptocurrency with the symbol "LBTC" for "Lightning Bitcoin". This is NOT the same as bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets). That currency symbol is for a small value altcoin that has no relation to the bitcoin Lightning network [⚡](https://lightningnetworkstores.com/wallets). There is another currency symbol that may be similar, L-BTC, and that too is unrelated to bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets). The L-BTC symbol is used by exchanges which support bitcoin on Blockstream's [Liquid Network](https://blockstream.com/liquid) [🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-), which has its own [list of exchanges and swap methods](https://help.blockstream.com/hc/en-us/articles/900000629383).
 
 **Exchanges where you can buy and/or sell bitcoin using Lightning network [⚡](https://lightningnetworkstores.com/wallets)**
 
-- [Bitfinex](https://bitfinex.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Also supports Liquid network
+- [Bitfinex](https://bitfinex.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Also supports Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
 - [River Financial](https://river.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
-- [Bull Bitcoin](https://bullbitcoin.com/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Canada, [Announcement](https://medium.com/bull-bitcoin/scaling-bull-bitcoins-non-custodial-services-with-the-lightning-network-782585d96098). Also supports Liquid network
+- [Bull Bitcoin](https://bullbitcoin.com/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Canada, [Announcement](https://medium.com/bull-bitcoin/scaling-bull-bitcoins-non-custodial-services-with-the-lightning-network-782585d96098). Also supports Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
 - [Strike](https://strike.zaphq.io/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://medium.com/@JimmyMow/announcing-strike-by-zap-4f578c7c8984)
 - [Bottlepay](https://bottlepay.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- UK and across Europe
 - [Flitz](https://getflitz.app) ([⚡](https://lightningnetworkstores.com/wallets)) <-- EU, [How-To Video](https://www.youtube.com/watch?v=WOZftBtl29U)
@@ -21,7 +21,7 @@ Exchanges with support for Lightning Network
 - [PrimeBit](https://primebit.com) ([⚡](https://lightningnetworkstores.com/wallets) <-- [Details](https://primebit.com/bitcoin-lightning-network)
 - [SimpleFX](https://simplefx.com/bitcoin-lightning-network) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Details](https://simplefx.com/bitcoin-lightning-network)
 - [Bitaroo](https://bitaroo.com.au) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Australia
-- [The Rock Trading](https://www.therocktrading.com)<-- Italy. Also supports Liquid network
+- [The Rock Trading](https://www.therocktrading.com)<-- Italy. Also supports Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
 - [BitNob](https://bitnob.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://blog.bitnob.com/introducing-the-lightning-network-as-explained-by-bitnob)
 - [VBTC](https://vbtc.exchange/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Vietnam, [Announcement](https://twitter.com/VBTC_Vietnam/status/1353564136702005248), [Press](https://news.bitcoinvn.io/vbtc-adding-lightning-batched-segwit-withdrawals)
 - [Buda](https://buda.com/) ([⚡](https://lightningnetworkstores.com/wallets))

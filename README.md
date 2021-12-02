@@ -16,7 +16,7 @@ Exchanges with support for Lightning Network
 - [OKEx](https://www.okex.com/trade-spot) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://bitcoinmagazine.com/articles/okcoin-to-integrate-lightning-network)
 - [CoinCorner](https://www.coincorner.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://twitter.com/CoinCorner/status/1346470541448761344)
 - [Bitbargain](https://bitbargain.co.uk/) ([⚡](https://lightningnetworkstores.com/wallets))
-- [HolyTransaction](https://holytransaction.com/#exchange) ([⚡](https://lightningnetworkstores.com/wallets))
+- [HolyTransaction](https://holytransaction.com/#exchange) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Also supports Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
 - [BTCDuke](https://btcduke.com/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [PrimeBit](https://primebit.com) ([⚡](https://lightningnetworkstores.com/wallets) <-- [Details](https://primebit.com/bitcoin-lightning-network)
 - [SimpleFX](https://simplefx.com/bitcoin-lightning-network) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Details](https://simplefx.com/bitcoin-lightning-network)
@@ -38,16 +38,16 @@ Exchanges with support for Lightning Network
 **P2P Trading exchanges with base currency support for Lightning network [⚡](https://lightningnetworkstores.com/wallets)**
 
 - [Paxful](https://paxful.com/) (💵, [⚡](https://lightningnetworkstores.com/wallets)) <--[Announcement](https://paxful.com/blog/lighting-network-integration)
-- [HodlHodl](https://hodlhodl.com/) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Not available in the U.S. [Lightning network is implemented simply as a payment method allowed for buying bitcoin.]
+- [HodlHodl](https://hodlhodl.com/) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Not available in the U.S. [Lightning network is implemented simply as a payment method allowed for buying bitcoin, as is Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))]
 - Many additional [P2P trading exchanges](https://github.com/cointastical/P2P-Trading-Exchanges) either explicitly allow bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets) as a payment method, or have an "Other" payment method that is a catchall in which the details of the payment method are located in the details of the trade offer.
 
 **Crypto-to-crypto methods**
 
-- [Coinos](https://coinos.io) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Also supports swap to/from Liquid network
+- [Coinos](https://coinos.io) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Also supports swap to/from Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
 - [FixedFloat.com](https://fixedfloat.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Not available in the U.S.
 - [Boltz](https://boltz.exchange/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
-- [SideShift AI](https://sideshift.ai/) ([⚡](https://lightningnetworkstores.com/wallets)) [NO KYC] <-- Also supports swap to/from Liquid network. Not available in the U.S.
-- [Flyp.me](https://flyp.me/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Uses "LNX" as currency symbol for bitcoin on Lightning network
+- [SideShift AI](https://sideshift.ai/) ([⚡](https://lightningnetworkstores.com/wallets)) [NO KYC] <-- Also supports swap to/from Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)). Not available in the U.S.
+- [Flyp.me](https://flyp.me/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Uses "LNX" as currency symbol for bitcoin on Lightning network. Also supports swap to/from Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
 - [Coin Swap](https://coinswap.click/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [ZigZag](https://zigzag.io/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [Lightning Loop client](https://github.com/lightninglabs/loop) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]

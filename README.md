@@ -46,7 +46,7 @@ Exchanges with support for Lightning Network
 - [Coinos](https://coinos.io) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Also supports swap to/from Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
 - [FixedFloat.com](https://fixedfloat.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Not available in the U.S.
 - [Boltz](https://boltz.exchange/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
-- [SideShift AI](https://sideshift.ai/) ([⚡](https://lightningnetworkstores.com/wallets)) [NO KYC] <-- Also supports swap to/from Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)). Not available in the U.S.
+- [SideShift AI](https://sideshift.ai/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Also supports swap to/from Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)). Not available in the U.S.
 - [Flyp.me](https://flyp.me/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Uses "LNX" as currency symbol for bitcoin on Lightning network. Also supports swap to/from Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
 - [Coin Swap](https://coinswap.click/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [ZigZag](https://zigzag.io/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]

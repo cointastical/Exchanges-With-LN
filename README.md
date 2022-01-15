@@ -59,7 +59,7 @@ Exchanges with support for Lightning Network
 - [FastBitcoins](https://fastbitcoins.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, when under $150] <-- Buy FastBitcoins voucher using bitcoin or altcoins on BitRefill, then withdraw from FastBitcoins using Lightning network [⚡](https://lightningnetworkstores.com/wallets)
 - [Marduk.exchange](https://www.marduk.exchange) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- LN BTC to/from STX, or USDA
 - [LNSwap](https://www.lnswap.org) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- LN BTC to/from RBTC, SOV, or xUSD
-- [XLM to LN](https://kriptode.com/xlmtoln/index.html) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
+- [XLM to LN](https://kriptode.com/xlmtoln/index.html) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- LN BTC to/from XLM
 - [CoinPlaza](https://www.coinplaza.it/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Liquid.Taxi](https://liquid.taxi/) ([⚡](https://lightningnetworkstores.com/wallets) coming soon) [**NO KYC**]
 - Currently, there are no [P2P Trading Exchanges](https://medium.com/@cointastical/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e) that offer Lighting network [⚡](https://lightningnetworkstores.com/wallets) BTC as the base currency but some (e.g., [HodlHodl](https://medium.com/@hodlhodl/new-payment-method-exchange-btc-on-chain-for-lightning-btc-1d9433c25c5e)) provide Lightning network [⚡](https://lightningnetworkstores.com/wallets) BTC as a payment method when buying or selling bitcoin.

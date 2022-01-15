@@ -41,7 +41,6 @@ Exchanges with support for Lightning Network
 
 - [Paxful](https://paxful.com/) (💵, [⚡](https://lightningnetworkstores.com/wallets)) <--[Announcement](https://paxful.com/blog/lighting-network-integration) [Allows deposits and withdrawals using Lightning network [⚡](https://lightningnetworkstores.com/wallets)]
 - [HodlHodl](https://hodlhodl.com/) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Not available in the U.S. [Lightning network is implemented simply as a payment method allowed for buying or selling bitcoin, as is Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))]
-- [Bisq](https://Bisq.network/) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- [Lightning network is implemented simply as a payment method allowed for buying or selling bitcoin]
 - Additional [P2P trading exchanges](https://github.com/cointastical/P2P-Trading-Exchanges) might not explicitly allow bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets) as a payment method, but might have an "Other" payment method that is a catchall in which the details of the payment method are located in the details of the trade offer.
 
 **Crypto-to-crypto methods**

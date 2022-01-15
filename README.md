@@ -37,7 +37,7 @@ Exchanges with support for Lightning Network
 - [xSats](https://xsats.com) ([⚡](https://lightningnetworkstores.com/wallets)) “[soon](https://twitter.com/xsatoshis/status/1361987787294199809)”) [[DCA](https://medium.com/@cointastical/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)]
 - [BitSTAMP](https://bitstamp.net/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Cash out through Zebedee](https://blog.bitstamp.net/post/how-to-use-the-new-lightning-network-bridge-for-instant-bitcoin-top-ups-in-crypto-gaming)
 
-**P2P Trading exchanges with base currency support for Lightning network [⚡](https://lightningnetworkstores.com/wallets)**
+**P2P Trading exchanges with support for Lightning network [⚡](https://lightningnetworkstores.com/wallets)**
 
 - [Paxful](https://paxful.com/) (💵, [⚡](https://lightningnetworkstores.com/wallets)) <--[Announcement](https://paxful.com/blog/lighting-network-integration)
 - [HodlHodl](https://hodlhodl.com/) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Not available in the U.S. [Lightning network is implemented simply as a payment method allowed for buying bitcoin, as is Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))]

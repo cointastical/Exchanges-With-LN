@@ -57,8 +57,8 @@ Exchanges with support for Lightning Network
 - [Submarine Swaps](http://submarineswaps.org/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- LN BTC to/from on-chain BTC or LTC
 - [BitRefill](https://www.bitrefill.com/buy/lightning-recharge) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [FastBitcoins](https://fastbitcoins.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, when under $150] <-- Buy FastBitcoins voucher using bitcoin or altcoins on BitRefill, then withdraw from FastBitcoins using Lightning network [⚡](https://lightningnetworkstores.com/wallets)
-- [Marduk.exchange](https://www.marduk.exchange) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, Atomic Swap] <-- LN BTC to/from STX, or USDA
-- [LNSwap](https://www.lnswap.org) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, Atomic Swap] <-- LN BTC to/from RBTC, SOV, or xUSD
+- [Marduk.exchange](https://www.marduk.exchange) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, Atomic Swap] <-- LN BTC to/from RBTC, SOV, or xUSD
+- [LNSwap](https://www.lnswap.org) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, Atomic Swap] <-- LN BTC to/from STX, or USDA
 - [XLM to LN](https://kriptode.com/xlmtoln/index.html) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- LN BTC to/from XLM
 - [CoinPlaza](https://www.coinplaza.it/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Liquid.Taxi](https://liquid.taxi/) ([⚡](https://lightningnetworkstores.com/wallets) coming soon) [**NO KYC**]

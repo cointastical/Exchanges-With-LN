@@ -78,7 +78,7 @@ Exchanges with support for Lightning Network
 
 **Debit Cards Funded Using Lightning Network**
 
-- [Moon](https://paywithmoon.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Browser plugin 
+- [Moon](https://paywithmoon.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Browser plugin
 - [LastBit](https://lastbit.io/#download-button) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Not available in the U.S.
 - [Spendl](https://getspendl.com/) ([⚡](https://lightningnetworkstores.com/wallets)) <--Browser extension (Chrome)
 - [Link Node Gift Card](https://www.lngiftcard.com/) ([⚡](https://lightningnetworkstores.com/wallets))

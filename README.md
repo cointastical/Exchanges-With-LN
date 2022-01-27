@@ -35,7 +35,7 @@ Exchanges with support for Lightning Network
 - [FastBitcoins](https://fastbitcoins.com/#locations) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [NO KYC, under $150] [[DCA](https://medium.com/@cointastical/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)] <-- UK, Canada and Estonia only, buy voucher with cash, then withdraw from FastBitcoins using Lightning network
 - [Graaf One](https://graaf.one/) ([⚡](https://lightningnetworkstores.com/wallets)) [Canada]
 - [SimpleFX](https://simplefx.com/bitcoin-lightning-network) ([⚡](https://lightningnetworkstores.com/wallets))
-- [xSats](https://xsats.com) ([⚡](https://lightningnetworkstores.com/wallets)) “[soon](https://twitter.com/xsatoshis/status/1361987787294199809)”) [[DCA](https://medium.com/@cointastical/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)]
+- [xSats](https://xsats.com) ([⚡](https://lightningnetworkstores.com/wallets)) “[soon](https://twitter.com/xsatoshis/status/1361987787294199809)”) [[DCA](https://medium.com/@cointastical/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)] <-- UK and EU, [Bitcoin Only](https://bitcoin-only.com/get-bitcoin)
 - [BitSTAMP](https://bitstamp.net/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Cash out through Zebedee](https://blog.bitstamp.net/post/how-to-use-the-new-lightning-network-bridge-for-instant-bitcoin-top-ups-in-crypto-gaming)
 
 **P2P Trading exchanges with support for Lightning network [⚡](https://lightningnetworkstores.com/wallets)**

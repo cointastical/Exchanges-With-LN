@@ -37,6 +37,7 @@ Exchanges with support for Lightning Network
 - [SimpleFX](https://simplefx.com/bitcoin-lightning-network) ([⚡](https://lightningnetworkstores.com/wallets))
 - [xSats](https://xsats.com) ([⚡](https://lightningnetworkstores.com/wallets)) “[soon](https://twitter.com/xsatoshis/status/1361987787294199809)”) [[DCA](https://medium.com/@cointastical/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)] <-- [Bitcoin Only](https://bitcoin-only.com/get-bitcoin), UK and EU
 - [BitSTAMP](https://bitstamp.net/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Cash out through Zebedee](https://blog.bitstamp.net/post/how-to-use-the-new-lightning-network-bridge-for-instant-bitcoin-top-ups-in-crypto-gaming)
+- [Striga Personal](https://striga.com/personal) ([⚡](https://lightningnetworkstores.com/wallets)) [Coming Soon] <-- [Early Access](https://striga.com/about/#t_action)
 
 **P2P Trading exchanges with support for Lightning network [⚡](https://lightningnetworkstores.com/wallets)**
 

@@ -15,7 +15,7 @@ Exchanges with support for Lightning Network
 - [@BitcoinVoucherBot](https://BitcoinVoucherBot.com) [[DCA](https://medium.com/@cointastical/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)] through [Azte.co](https://azte.co) ([⚡](https://lightningnetworkstores.com/wallets))
 - [OKCoin](https://www.okcoin.com/spot/trade) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://blog.okcoin.com/2021/03/04/how-to-use-bitcoin-lightning-network)
 - [OKEx](https://www.okex.com/trade-spot) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://bitcoinmagazine.com/articles/okcoin-to-integrate-lightning-network)
-- [CoinCorner](https://www.coincorner.com) ([⚡](https://lightningnetworkstores.com/wallets) [[DCA](https://medium.com/@cointastical/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)] <-- [Announcement](https://twitter.com/CoinCorner/status/1346470541448761344)
+- [CoinCorner](https://www.coincorner.com) ([⚡](https://lightningnetworkstores.com/wallets)) [[DCA](https://medium.com/@cointastical/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)] <-- [Announcement](https://twitter.com/CoinCorner/status/1346470541448761344)
 - [Bitbargain](https://bitbargain.co.uk/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [HolyTransaction](https://holytransaction.com/#exchange) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Also supports Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
 - [BTCDuke](https://btcduke.com/) ([⚡](https://lightningnetworkstores.com/wallets))

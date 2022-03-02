@@ -30,6 +30,7 @@ Exchanges with support for Lightning Network
 - [Breez](https://breez.technology/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://medium.com/breez-technology/breez-moonpay-the-easiest-way-to-buy-spend-bitcoin-on-lightning-3c40b3d3815a)
 - [Bipa](https://bipa.app/) ([⚡](https://lightningnetworkstores.com/wallets)) [[DCA](https://medium.com/@cointastical/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)] <-- Brazil
 - [SouthXchange](https://southxchange.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Argentina
+- [Belo](https://belo.app) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Argentina
 - [IBEX Mercado](https://linktr.ee/IBEXmercado) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Guatemala
 - [Landifa](https://bitcoin-namibia.trade/) - Bitcoin Trade Namibia ([⚡](https://lightningnetworkstores.com/wallets))
 - [FastBitcoins](https://fastbitcoins.com/#locations) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, under $150] [[DCA](https://medium.com/@cointastical/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)] <-- UK, Canada and Estonia only, buy voucher with cash, then withdraw from FastBitcoins using Lightning network

@@ -114,6 +114,12 @@ On [P2P Trading Platforms](https://cointastical.github.io/P2P-Trading-Exchanges)
 - [Lightning Wiki](https://lightningwiki.net)
 - Lopp's [Lightning Network Resources](https://lightning.how)
 
+**See Also**
+
+- [KYC-Free-Instant-Exchanges](https://cointastical.github.io/KYC-Free-Instant-Exchanges) <-- Superset of the listings in the "crypto-to-crypto" section above
+- [P2P Trading Platforms](https://cointastical.github.io/P2P-Trading-Exchanges)
+- [Physical Stores where you can Buy or Sell bitcoin](https://cointastical.github.io/Physical-Locations-Bitcoin)
+
 Additions, corrections, and other feedback welcome and can be submitted as an [issue or pull request on GitHub](https://github.com/cointastical/Exchanges-With-LN), or via [e-mail](mailto://cointastical@gmail.com).
 
 [Note: There is also a [corresponding post on Medium](https://cointastical.medium.com/exchanges-with-support-for-bitcoin-lightning-network-payments-739829bcb7bc) with this information as well.]

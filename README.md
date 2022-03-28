@@ -72,7 +72,7 @@ On [P2P Trading Platforms](https://cointastical.github.io/P2P-Trading-Exchanges)
 
 - For buying or selling bitcoin on [HodlHodl](https://medium.com/@hodlhodl/new-payment-method-exchange-btc-on-chain-for-lightning-btc-1d9433c25c5e), BTC is supported as the base currency and Lighting network [⚡](https://lightningnetworkstores.com/wallets) as the payment method.
 - For buying or selling bitcoin on [RoboSats](https://github.com/Reckless-Satoshi/robosats/blob/main/README.md), bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets) is supported as the base currency and the offer may use any other cryptocurrency as the payment method.
-- [Paxful](https://paxful.com/) permits you to convert from either USDT or ETH to BTC, and then you can withdraw that BTC on Lightining network [⚡](https://lightningnetworkstores.com/wallets).  And vice-versa, deposit BTC on LN ([⚡](https://lightningnetworkstores.com/wallets) and then convert to ETH or USDT.  Other custodial exchanges (above) may have the same (or similar) capability.
+- [Paxful](https://paxful.com/) permits you to convert from either USDT or ETH to BTC, and then you can withdraw that BTC on Lightining network [⚡](https://lightningnetworkstores.com/wallets).  And vice-versa, deposit BTC on LN [⚡](https://lightningnetworkstores.com/wallets) and then convert to ETH or USDT.  Other custodial exchanges (above) may have the same (or similar) capability.
 
 **Precious Metals**
 

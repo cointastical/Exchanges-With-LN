@@ -98,6 +98,7 @@ On [P2P Trading Platforms](https://cointastical.github.io/P2P-Trading-Exchanges)
 
 - [BitRefill](https://www.bitrefill.com/buy/lightning-recharge) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [Flexa](https://flexa.network) ([⚡](https://lightningnetworkstores.com/wallets)) [Announcement](https://medium.com/flexa/flexa-adds-support-for-fraud-proof-lightning-network-payments-dfb6df0db5e)
+- [Bitcoin Suisse](https://www.bitcoinsuisse.com) ([⚡](https://lightningnetworkstores.com/wallets)) [Announcement](https://www.bitcoinsuisse.com/news/bitcoin-suisse-becomes-first-crypto-payment-processor-in-switzerland-to-integrate-bitcoin-lightning-technology)
 
 **Lightning Network Wallets**
 

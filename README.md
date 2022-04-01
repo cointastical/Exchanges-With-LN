@@ -101,6 +101,7 @@ On [P2P Trading Platforms](https://cointastical.github.io/P2P-Trading-Exchanges)
 - [Bitcoin Suisse](https://www.bitcoinsuisse.com) ([⚡](https://lightningnetworkstores.com/wallets)) [Announcement](https://www.bitcoinsuisse.com/news/bitcoin-suisse-becomes-first-crypto-payment-processor-in-switzerland-to-integrate-bitcoin-lightning-technology)
 
 **Payroll**
+- [BitWage](https://bitwage.com) ([⚡](https://lightningnetworkstores.com/wallets)) [Announcement](https://voltage.cloud/blog/news/bitwage-x-voltage-first-salary-payments-on-lightning)
 
 **Lightning Network Wallets**
 

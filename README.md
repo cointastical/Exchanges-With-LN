@@ -68,6 +68,7 @@ Exchanges with support for Lightning Network
 - [Bosphorus.Exchange](https://Bosphorus.Exchange) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, Atomic Swap] <-- LN BTC to/from CELO, or cUSD
 - [CoinPlaza](https://www.coinplaza.it/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Liquid.Taxi](https://liquid.taxi/) ([⚡](https://lightningnetworkstores.com/wallets) coming soon) [**NO KYC**]
+- [PulseLN](https://PulseLN.com/) ([⚡](https://lightningnetworkstores.com/wallets) coming soon) [**NO KYC**] <-- LN BTC to/from BNB, PLS, or HEX
 
 On [P2P Trading Platforms](https://cointastical.github.io/P2P-Trading-Exchanges):
 

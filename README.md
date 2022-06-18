@@ -33,6 +33,7 @@ Exchanges with support for Lightning Network
 - [SouthXchange](https://southxchange.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Argentina
 - [Belo](https://belo.app) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Argentina
 - [IBEX Mercado](https://linktr.ee/IBEXmercado) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Guatemala
+- [Tauros](https://tauros.io) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Mexico
 - [Landifa](https://bitcoin-namibia.trade/) - Bitcoin Trade Namibia ([⚡](https://lightningnetworkstores.com/wallets))
 - [FastBitcoins](https://fastbitcoins.com/#locations) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, under $150] [[DCA](https://medium.com/@cointastical/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)] <-- UK, Canada and Estonia only, buy voucher with cash, then withdraw from FastBitcoins using Lightning network
 - [Graaf One](https://graaf.one/) ([⚡](https://lightningnetworkstores.com/wallets)) [Canada]

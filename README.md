@@ -40,7 +40,7 @@ Exchanges with support for Lightning Network
 - [SimpleFX](https://simplefx.com/bitcoin-lightning-network) ([⚡](https://lightningnetworkstores.com/wallets))
 - [BitSTAMP](https://bitstamp.net/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Cash out through Zebedee](https://blog.bitstamp.net/post/how-to-use-the-new-lightning-network-bridge-for-instant-bitcoin-top-ups-in-crypto-gaming)
 - [CardCoins](https://www.cardcoins.co) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Fom 80,000 retail [locations](https://map.cardcoins.co) in U.S, [Announcement](http://www.prweb.com/releases/2021/12/prweb18395364.htm)
-- [Purse.io](https://purse.io) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Shop on Amazon, pay with Lightning network ([⚡](https://lightningnetworkstores.com/wallets)). [Announcement](https://blog.purse.io/announcing-lightning-on-purse-84cc163b20f9?gi=c38ccd70e6a3)
+- [Purse.io](https://purse.io) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Shop on Amazon, pay using LN ([⚡](https://lightningnetworkstores.com/wallets)). [Announcement](https://blog.purse.io/announcing-lightning-on-purse-84cc163b20f9?gi=c38ccd70e6a3)
 - [Striga Personal](https://striga.com/personal) ([⚡](https://lightningnetworkstores.com/wallets)) [Coming Soon] <-- [Early Access](https://striga.com/about/#t_action)
 - [xSats](https://xsats.com), when operations resume, is planning on LN ([⚡](https://lightningnetworkstores.com/wallets)) support
 

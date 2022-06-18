@@ -45,9 +45,9 @@ Exchanges with support for Lightning Network
 
 **P2P Trading Platforms with support for Lightning network [⚡](https://lightningnetworkstores.com/wallets)**
 
-- [Paxful](https://paxful.com/) (💵, [⚡](https://lightningnetworkstores.com/wallets)), permits you to convert from either USDT or ETH to BTC, and then you can withdraw that BTC on Lightining network ⚡.  And vice-versa, deposit BTC on LN ⚡ and then convert to ETH or USDT.
-- For buying or selling bitcoin on [HodlHodl](https://medium.com/@hodlhodl/new-payment-method-exchange-btc-on-chain-for-lightning-btc-1d9433c25c5e) (💵, [⚡](https://lightningnetworkstores.com/wallets)), BTC is supported as the base currency and Lighting network ⚡ as the payment method. [**NO KYC**]
-- For buying or selling bitcoin on [RoboSats](https://github.com/Reckless-Satoshi/robosats/blob/main/README.md) (💵, [⚡](https://lightningnetworkstores.com/wallets)), bitcoin on Lightning network ⚡ is supported as the base currency and the offer may use any other cryptocurrency as the payment method. [**NO KYC**]
+- [Paxful](https://paxful.com/) (💵, [⚡](https://lightningnetworkstores.com/wallets)) <-- Permits you to convert from either USDT or ETH to BTC, and then you can withdraw that BTC on Lightining network ⚡.  And vice-versa, deposit BTC on LN ⚡ and then convert to ETH or USDT.
+- [RoboSats](https://github.com/Reckless-Satoshi/robosats/blob/main/README.md) (💵, [⚡](https://lightningnetworkstores.com/wallets) only) [**NO KYC**] <--Non-custodial. Requires Tor browser. [Guide](https://github.com/Reckless-Satoshi/robosats/blob/2565c59028fc796a5f520edd79bb7982348cd0be/docs/how-to-use.md)
+- [HodlHodl](https://medium.com/@hodlhodl/new-payment-method-exchange-btc-on-chain-for-lightning-btc-1d9433c25c5e) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Non-custodial. BTC is supported as the base currency and Lighting network ⚡ as the payment method.
 - Additional [P2P Trading Platforms](https://cointastical.github.io/P2P-Trading-Exchanges) might not explicitly allow bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets) as a payment method, but might have an "Other" payment method that is a catchall in which the details of the payment method are located in the details of the trade offer.
 
 **Crypto-to-crypto methods**

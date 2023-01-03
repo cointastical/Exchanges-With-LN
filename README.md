@@ -72,7 +72,7 @@ Exchanges with support for Lightning Network
 - [CoinPlaza](https://www.coinplaza.it/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Liquid.Taxi](https://liquid.taxi/) ([⚡](https://lightningnetworkstores.com/wallets) coming soon) [**NO KYC**]
 - [Portico Exchange](https://porticoexchange.github.io/porticoexchangev2.github.io/) ([⚡](https://lightningnetworkstores.com/wallets) coming soon) [**NO KYC**]
-- 
+
 **Precious Metals**
 
 - [Vaultoro](https://www.vaultoro.com/) ([⚡](https://lightningnetworkstores.com/wallets))

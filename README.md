@@ -75,7 +75,7 @@ Exchanges with support for Lightning Network
 - [CoinPlaza](https://www.coinplaza.it/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Liquid.Taxi](https://liquid.taxi/) ([⚡](https://lightningnetworkstores.com/wallets) coming soon) [**NO KYC**]
 - [Portico Exchange](https://porticoexchange.github.io/porticoexchangev2.github.io) ([⚡](https://lightningnetworkstores.com/wallets)) [Coming Soon]
-- [PulseLN](https://PulseLN.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, Coming Soon] <-- LN BTC to/from BNB, PLS, or HEX
+- [PulseLN](https://PulseLN.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- LN BTC to/from BNB, PLS, HEX, PLN
 
 **Precious Metals**
 

@@ -74,7 +74,6 @@ Exchanges with support for Lightning Network
 - [Bosphorus.Exchange](https://Bosphorus.Exchange) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, Atomic Swap] <-- LN BTC to/from CELO, or cUSD
 - [CoinPlaza](https://www.coinplaza.it/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Liquid.Taxi](https://liquid.taxi/) ([⚡](https://lightningnetworkstores.com/wallets) coming soon) [**NO KYC**]
-- [Portico Exchange](https://porticoexchange.github.io/porticoexchangev2.github.io) ([⚡](https://lightningnetworkstores.com/wallets)) [Coming Soon]
 
 **Precious Metals**
 
@@ -85,7 +84,6 @@ Exchanges with support for Lightning Network
 
 - [Loft](https://loft.trade/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Invest inStocks using Lightning network ([⚡](https://lightningnetworkstores.com/wallets))
 - [LNMarkets](https://lnmarkets.com/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Not available from the U.S.
-- [Kollider](https://kollider.xyz) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Register for early access
 - [BitMEX Research](https://blog.bitmex.com/research) does operate a Lighting Network ([⚡](https://lightningnetworkstores.com/wallets)) node, however the [BitMEX](https://bitmex.com/trading-on-bitmex) trading platform does not yet support LN deposits or withdrawals
 
 **Debit Cards Funded Using Lightning Network**

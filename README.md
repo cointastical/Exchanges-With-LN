@@ -18,7 +18,7 @@ Exchanges with support for Lightning Network
 - [OKEx](https://www.okex.com/trade-spot) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://bitcoinmagazine.com/articles/okcoin-to-integrate-lightning-network)
 - [CoinCorner](https://www.coincorner.com) ([⚡](https://lightningnetworkstores.com/wallets)) [[DCA](https://medium.com/@cointastical/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)] <-- [Announcement](https://twitter.com/CoinCorner/status/1346470541448761344)
 - [Bitonic](https://bl3p.eu) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement of pilot](https://bl3p.eu/news/76/BL3P+a)
-- [Mt. Pelerin](mtpelerin.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://bitcoinmagazine.com/business/mt-pelerin-adds-support-for-bitcoin-lightning)
+- [Mt. Pelerin](https://mtpelerin.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://bitcoinmagazine.com/business/mt-pelerin-adds-support-for-bitcoin-lightning)
 - [HolyTransaction](https://holytransaction.com/#exchange) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Also supports Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
 - [PrimeBit](https://primebit.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Details](https://primebit.com/bitcoin-lightning-network)
 - [SimpleFX](https://simplefx.com/bitcoin-lightning-network) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Details](https://simplefx.com/bitcoin-lightning-network)

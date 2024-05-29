@@ -91,9 +91,9 @@ Exchanges with support for Lightning Network
 
 **Lightning Network Wallets**
 
-- Lightning Network Stores: [Mobile Wallets](https://www.lopp.net/lightning-information.html#desktop_wallets) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets))
+- Lopp's Lightning Network Resources: [Mobile Wallets](https://www.lopp.net/lightning-information.html#desktop_wallets) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets))
 - Rusnak: [Comparison of 5 Lightning Network Wallets](https://rusnak.io/lightning-wallets-comparison) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets))
-- LNRoute: [Lightning Wallets](https://lnroute.com/category/wallets) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets))
+- LNRoute: [Lightning Wallets](Lopp's Lightning Network Resources:) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets))
 
 **Related**
 

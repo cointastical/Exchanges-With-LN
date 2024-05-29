@@ -59,7 +59,7 @@ Exchanges with support for Lightning Network
 - [Wallet of Satoshi](https://walletofsatoshi.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Built-in onchain/offchain exchange
 - [Lightning Loop client](https://github.com/lightninglabs/loop) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [Submarine Swaps](http://submarineswaps.org/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- LN BTC to/from on-chain BTC or LTC
-- [BitRefill](https://www.bitrefill.com/buy/lightning-recharge) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
+- [BitRefill](https://www.bitrefill.com/us/en/crypto-utils/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [Marduk.exchange](https://www.marduk.exchange) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, Atomic Swap] <-- LN BTC to/from RBTC, SOV, or xUSD
 - [LNSwap](https://www.lnswap.org) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, Atomic Swap] <-- LN BTC to/from STX, or USDA
 - [CoinPlaza](https://www.coinplaza.it/) ([⚡](https://lightningnetworkstores.com/wallets))

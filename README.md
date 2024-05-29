@@ -36,7 +36,7 @@ Exchanges with support for Lightning Network
 - [Osmo Wallet](https://en.osmowallet.com/) ([⚡️](https://lightningnetworkstores.com/wallets)) [[En Espanol](https://osmowallet.com/)] <-- Guatemala
 - [Landifa](https://landifa.com/) - Landifa ([⚡](https://lightningnetworkstores.com/wallets)) <-- Namibia
 - [FastBitcoins](https://fastbitcoins.com/#locations) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, under $150] [[DCA](https://medium.com/@cointastical/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)] <-- UK, Canada and Estonia only, buy voucher with cash, then withdraw from FastBitcoins using Lightning network
-- [Graaf One](https://graaf.one/) ([⚡](https://lightningnetworkstores.com/wallets)) [Canada]
+- [Graaf One](https://www.graaf.one/) ([⚡](https://lightningnetworkstores.com/wallets)) [Canada]
 - [SimpleFX](https://simplefx.com/bitcoin-lightning-network) ([⚡](https://lightningnetworkstores.com/wallets))
 - [BitSTAMP](https://bitstamp.net/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Cash out through Zebedee](https://blog.bitstamp.net/post/how-to-use-the-new-lightning-network-bridge-for-instant-bitcoin-top-ups-in-crypto-gaming)
 - [CardCoins](https://www.cardcoins.co) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Fom 80,000 retail [locations](https://map.cardcoins.co) in U.S, [Announcement](http://www.prweb.com/releases/2021/12/prweb18395364.htm)

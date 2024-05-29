@@ -96,7 +96,6 @@ Exchanges with support for Lightning Network
 
 **Related**
 
-- [Lightning Exchanges](https://wiki.ion.radar.tech/tutorials/lightning-exchanges) <-- List from the ION wiki
 - [Lightning Exchanges](https://lightningnetworkstores.com/?tags=exchange) <-- List from Lightning Network Stores
 - [Lightning Exchanges](https://github.com/theDavidCoen/LightningExchanges) <-- List from David Coen
 - [Lightning Payment Processors and Gateways](https://lightningnetworkstores.com/?tags=payment%20gateway) <-- List from Lightning Network Stores

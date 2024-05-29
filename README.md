@@ -43,6 +43,7 @@ Exchanges with support for Lightning Network
 
 - [RoboSats](https://github.com/Reckless-Satoshi/robosats/blob/main/README.md) (💵, [⚡](https://www.lopp.net/lightning-information.html#desktop_wallets) only) [**NO KYC**] <--Non-custodial. Requires Tor browser. [Guide](https://github.com/Reckless-Satoshi/robosats/blob/2565c59028fc796a5f520edd79bb7982348cd0be/docs/how-to-use.md)
 - [HodlHodl](https://medium.com/@hodlhodl/new-payment-method-exchange-btc-on-chain-for-lightning-btc-1d9433c25c5e) (💵, [⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) [**NO KYC**] <-- Non-custodial. Not available in the U.S. [Lightning network ⚡ is implemented simply as a payment method allowed for buying or selling bitcoin, as is Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))]
+- [Noones](https://noones.com/) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) [KYC]
 - Additional [P2P Trading Platforms](https://cointastical.github.io/P2P-Trading-Exchanges) might not explicitly allow bitcoin on Lightning network [⚡](https://www.lopp.net/lightning-information.html#desktop_wallets) as a payment method, but might have an "Other" payment method that is a catchall in which the details of the payment method are located in the details of the trade offer.
 
 **Crypto-to-crypto methods**

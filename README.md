@@ -38,7 +38,6 @@ Exchanges with support for Lightning Network
 - [Graaf One](https://www.graaf.one/) ([⚡](https://lightningnetworkstores.com/wallets)) [Canada]
 - [SimpleFX](https://simplefx.com/bitcoin-lightning-network) ([⚡](https://lightningnetworkstores.com/wallets))
 - [BitSTAMP](https://bitstamp.net/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Cash out through Zebedee](https://blog.bitstamp.net/post/how-to-use-the-new-lightning-network-bridge-for-instant-bitcoin-top-ups-in-crypto-gaming)
-- [Striga Personal](https://striga.com/personal) ([⚡](https://lightningnetworkstores.com/wallets)) [Coming Soon] <-- [Early Access](https://striga.com/about/#t_action)
 - [xSats](https://xsats.com), when operations resume, is planning on LN ([⚡](https://lightningnetworkstores.com/wallets)) support
 
 **P2P Trading Platforms with support for Lightning network [⚡](https://lightningnetworkstores.com/wallets)**

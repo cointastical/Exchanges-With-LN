@@ -23,7 +23,6 @@ Exchanges with support for Lightning Network
 - [PrimeBit](https://primebit.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Details](https://primebit.com/bitcoin-lightning-network)
 - [SimpleFX](https://simplefx.com/bitcoin-lightning-network) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Details](https://simplefx.com/bitcoin-lightning-network)
 - [Bitaroo](https://bitaroo.com.au) ([⚡](https://lightningnetworkstores.com/wallets)) [[DCA](https://medium.com/@cointastical/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)] <-- Australia
-- [The Rock Trading](https://www.therocktrading.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Italy. Also supports Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
 - [BitNob](https://bitnob.com) ([⚡](https://lightningnetworkstores.com/wallets)) [[DCA](https://medium.com/@cointastical/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)] <-- [Announcement](https://blog.bitnob.com/introducing-the-lightning-network-as-explained-by-bitnob)
 - [BitcoinVN](https://bitcoinvn.io) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Vietnam
 - [VBTC](https://vbtc.exchange/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Vietnam, [Announcement](https://twitter.com/VBTC_Vietnam/status/1353564136702005248), [Press](https://news.bitcoinvn.io/vbtc-adding-lightning-batched-segwit-withdrawals)

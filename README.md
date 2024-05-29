@@ -100,7 +100,7 @@ Exchanges with support for Lightning Network
 - [Lightning Payment Processors and Gateways](https://www.lopp.net/lightning-information.html#merchant_tools)
 - [Are multicoin exchanges attacks on Bitcoin scaling?](https://tftc.io/martys-bent/issue-888)
 - [Lightning Wiki](https://lightningwiki.net)
-- Lopp's [Lightning Network Resources](https://lightning.how)
+- Lopp's [Lightning Network Resources](https://www.lopp.net/lightning-information.html)
 
 **See Also**
 

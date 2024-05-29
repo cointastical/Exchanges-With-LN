@@ -83,7 +83,7 @@ Exchanges with support for Lightning Network
 
 **Retail and e-Commerce Payments**
 
-- [BitRefill](https://www.bitrefill.com/buy/lightning-recharge) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
+- [BitRefill](https://www.bitrefill.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [Flexa](https://flexa.network) ([⚡](https://lightningnetworkstores.com/wallets)) [Announcement](https://medium.com/flexa/flexa-adds-support-for-fraud-proof-lightning-network-payments-dfb6df0db5e)
 - [Bitcoin Suisse](https://www.bitcoinsuisse.com) ([⚡](https://lightningnetworkstores.com/wallets)) [Announcement](https://www.bitcoinsuisse.com/news/bitcoin-suisse-becomes-first-crypto-payment-processor-in-switzerland-to-integrate-bitcoin-lightning-technology)
 

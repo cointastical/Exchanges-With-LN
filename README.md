@@ -62,6 +62,7 @@ Exchanges with support for Lightning Network
 - [SideShift AI](https://sideshift.ai/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Also supports swap to/from Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)). Not available in the U.S.
 - [Flyp.me](https://flyp.me/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Uses "LNX" as currency symbol for bitcoin on Lightning network. Also supports swap to/from Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
 - [Coin Swap](https://coinswap.click/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- LN BTC to/from on-chain BTC, LTC, Dash, or XMR
+- [SecureShift.io](https://secureshift.io/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [ZigZag](https://zigzag.io/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- LN BTC to/from on-chain BTC, or LTC
 - [Wallet of Satoshi](https://walletofsatoshi.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Built-in onchain/offchain exchange
 - [Lightning Loop client](https://github.com/lightninglabs/loop) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
@@ -72,7 +73,6 @@ Exchanges with support for Lightning Network
 - [LNSwap](https://www.lnswap.org) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, Atomic Swap] <-- LN BTC to/from STX, or USDA
 - [CoinPlaza](https://www.coinplaza.it/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Liquid.Taxi](https://liquid.taxi/) ([⚡](https://lightningnetworkstores.com/wallets) coming soon) [**NO KYC**]
-- [SecureShift.io](https://secureshift.io/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [Portico Exchange](https://porticoexchange.github.io/porticoexchangev2.github.io) ([⚡](https://lightningnetworkstores.com/wallets)) [Coming Soon]
 
 **Precious Metals**

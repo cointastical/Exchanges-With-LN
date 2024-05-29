@@ -72,7 +72,6 @@ Exchanges with support for Lightning Network
 - [Marduk.exchange](https://www.marduk.exchange) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, Atomic Swap] <-- LN BTC to/from RBTC, SOV, or xUSD
 - [LNSwap](https://www.lnswap.org) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, Atomic Swap] <-- LN BTC to/from STX, or USDA
 - [CoinPlaza](https://www.coinplaza.it/) ([⚡](https://lightningnetworkstores.com/wallets))
-- [Liquid.Taxi](https://liquid.taxi/) ([⚡](https://lightningnetworkstores.com/wallets) coming soon) [**NO KYC**]
 
 **Precious Metals**
 

@@ -33,8 +33,8 @@ Exchanges with support for Lightning Network
 - [SouthXchange](https://southxchange.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Argentina
 - [Belo](https://belo.app) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Argentina
 - [IBEX Mercado](https://www.poweredbyibex.io/technology#w-tabs-0-data-w-pane-0) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Guatemala
-- [Osmo Wallet](https://en.osmowallet.com/) ([⚡️](https://lightningnetworkstores.com/wallets)) [[En Espanol](https://osmowallet.com/)] ← Guatemala
-- [Landifa](https://bitcoin-namibia.trade/) - Bitcoin Trade Namibia ([⚡](https://lightningnetworkstores.com/wallets))
+- [Osmo Wallet](https://en.osmowallet.com/) ([⚡️](https://lightningnetworkstores.com/wallets)) [[En Espanol](https://osmowallet.com/)] <-- Guatemala
+- [Landifa](https://landifa.com/) - Landifa ([⚡](https://lightningnetworkstores.com/wallets)) <-- Namibia
 - [FastBitcoins](https://fastbitcoins.com/#locations) (💵, [⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, under $150] [[DCA](https://medium.com/@cointastical/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)] <-- UK, Canada and Estonia only, buy voucher with cash, then withdraw from FastBitcoins using Lightning network
 - [Graaf One](https://graaf.one/) ([⚡](https://lightningnetworkstores.com/wallets)) [Canada]
 - [SimpleFX](https://simplefx.com/bitcoin-lightning-network) ([⚡](https://lightningnetworkstores.com/wallets))

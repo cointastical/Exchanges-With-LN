@@ -21,7 +21,6 @@ Exchanges with support for Lightning Network
 - [Bitbargain](https://bitbargain.co.uk/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Mt. Pelerin](mtpelerin.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Announcement](https://bitcoinmagazine.com/business/mt-pelerin-adds-support-for-bitcoin-lightning)
 - [HolyTransaction](https://holytransaction.com/#exchange) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Also supports Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
-- [BTCDuke](https://btcduke.com/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [PrimeBit](https://primebit.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Details](https://primebit.com/bitcoin-lightning-network)
 - [SimpleFX](https://simplefx.com/bitcoin-lightning-network) ([⚡](https://lightningnetworkstores.com/wallets)) <-- [Details](https://simplefx.com/bitcoin-lightning-network)
 - [Bitaroo](https://bitaroo.com.au) ([⚡](https://lightningnetworkstores.com/wallets)) [[DCA](https://medium.com/@cointastical/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)] <-- Australia

@@ -97,7 +97,7 @@ Exchanges with support for Lightning Network
 **Related**
 
 - [Lightning Exchanges](https://github.com/theDavidCoen/LightningExchanges) <-- List from David Coen
-- [Lightning Payment Processors and Gateways](https://lightningnetworkstores.com/?tags=payment%20gateway) <-- List from Lightning Network Stores
+- [Lightning Payment Processors and Gateways](https://www.lopp.net/lightning-information.html#merchant_tools)
 - [Are multicoin exchanges attacks on Bitcoin scaling?](https://tftc.io/martys-bent/issue-888)
 - [Lightning Wiki](https://lightningwiki.net)
 - Lopp's [Lightning Network Resources](https://lightning.how)

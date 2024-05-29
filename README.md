@@ -72,6 +72,7 @@ Exchanges with support for Lightning Network
 - [LNSwap](https://www.lnswap.org) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, Atomic Swap] <-- LN BTC to/from STX, or USDA
 - [CoinPlaza](https://www.coinplaza.it/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Liquid.Taxi](https://liquid.taxi/) ([⚡](https://lightningnetworkstores.com/wallets) coming soon) [**NO KYC**]
+- [SecureShift.io](https://secureshift.io/) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**]
 - [Portico Exchange](https://porticoexchange.github.io/porticoexchangev2.github.io) ([⚡](https://lightningnetworkstores.com/wallets)) [Coming Soon]
 
 **Precious Metals**
